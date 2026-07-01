@@ -1,0 +1,282 @@
+[
+  {
+    "category_id": "93",
+    "category_name": "كاس العالم",
+    "parent_id": 0
+  },
+  {
+    "category_id": "115",
+    "category_name": "كاس العالم 2",
+    "parent_id": 0
+  },
+  {
+    "category_id": "155",
+    "category_name": "beIN MAX 4K",
+    "parent_id": 0
+  },
+  {
+    "category_id": "1",
+    "category_name": "beIN Sports LOW",
+    "parent_id": 0
+  },
+  {
+    "category_id": "2",
+    "category_name": "beIN Sports SD",
+    "parent_id": 0
+  },
+  {
+    "category_id": "3",
+    "category_name": "beIN Sports HD",
+    "parent_id": 0
+  },
+  {
+    "category_id": "4",
+    "category_name": "beIN Sports FHD",
+    "parent_id": 0
+  },
+  {
+    "category_id": "125",
+    "category_name": "beIN MOVIES",
+    "parent_id": 0
+  },
+  {
+    "category_id": "11",
+    "category_name": "Thmanayh",
+    "parent_id": 0
+  },
+  {
+    "category_id": "5",
+    "category_name": "Alkass SD",
+    "parent_id": 0
+  },
+  {
+    "category_id": "6",
+    "category_name": "Alkass HD",
+    "parent_id": 0
+  },
+  {
+    "category_id": "7",
+    "category_name": "Alkass FHD",
+    "parent_id": 0
+  },
+  {
+    "category_id": "8",
+    "category_name": "ARABIC SPORTS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "9",
+    "category_name": "Alwan Sports",
+    "parent_id": 0
+  },
+  {
+    "category_id": "10",
+    "category_name": "Seria A",
+    "parent_id": 0
+  },
+  {
+    "category_id": "12",
+    "category_name": "ARABIC NEWS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "118",
+    "category_name": "KSA SPORTS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "119",
+    "category_name": "ABU DHABI SPORTS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "120",
+    "category_name": "DAZN SPORT",
+    "parent_id": 0
+  },
+  {
+    "category_id": "13",
+    "category_name": "MBC",
+    "parent_id": 0
+  },
+  {
+    "category_id": "17",
+    "category_name": "OSN",
+    "parent_id": 0
+  },
+  {
+    "category_id": "116",
+    "category_name": "ART",
+    "parent_id": 0
+  },
+  {
+    "category_id": "19",
+    "category_name": "KIDS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "14",
+    "category_name": "Islam TV",
+    "parent_id": 0
+  },
+  {
+    "category_id": "114",
+    "category_name": "NETFILX",
+    "parent_id": 0
+  },
+  {
+    "category_id": "20",
+    "category_name": "Rotana",
+    "parent_id": 0
+  },
+  {
+    "category_id": "117",
+    "category_name": "AL RABIAA",
+    "parent_id": 0
+  },
+  {
+    "category_id": "121",
+    "category_name": "TEENIS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "122",
+    "category_name": "WWE مصارعة",
+    "parent_id": 0
+  },
+  {
+    "category_id": "123",
+    "category_name": "Family",
+    "parent_id": 0
+  },
+  {
+    "category_id": "126",
+    "category_name": "AFRICA",
+    "parent_id": 0
+  },
+  {
+    "category_id": "16",
+    "category_name": "Egypt",
+    "parent_id": 0
+  },
+  {
+    "category_id": "15",
+    "category_name": "OMAN",
+    "parent_id": 0
+  },
+  {
+    "category_id": "23",
+    "category_name": "KUWAIT",
+    "parent_id": 0
+  },
+  {
+    "category_id": "22",
+    "category_name": "Emirate (UAE)",
+    "parent_id": 0
+  },
+  {
+    "category_id": "21",
+    "category_name": "SUDAN",
+    "parent_id": 0
+  },
+  {
+    "category_id": "18",
+    "category_name": "PRIME VIDEO",
+    "parent_id": 0
+  },
+  {
+    "category_id": "34",
+    "category_name": "Palestine",
+    "parent_id": 0
+  },
+  {
+    "category_id": "35",
+    "category_name": "QATAR",
+    "parent_id": 0
+  },
+  {
+    "category_id": "36",
+    "category_name": "SAUDI",
+    "parent_id": 0
+  },
+  {
+    "category_id": "37",
+    "category_name": "SYRIA",
+    "parent_id": 0
+  },
+  {
+    "category_id": "38",
+    "category_name": "TUNISIA",
+    "parent_id": 0
+  },
+  {
+    "category_id": "39",
+    "category_name": "YEMEN",
+    "parent_id": 0
+  },
+  {
+    "category_id": "33",
+    "category_name": "Morocco",
+    "parent_id": 0
+  },
+  {
+    "category_id": "32",
+    "category_name": "Mauritania",
+    "parent_id": 0
+  },
+  {
+    "category_id": "31",
+    "category_name": "LIBYA",
+    "parent_id": 0
+  },
+  {
+    "category_id": "30",
+    "category_name": "Lebanon",
+    "parent_id": 0
+  },
+  {
+    "category_id": "29",
+    "category_name": "Kurdi",
+    "parent_id": 0
+  },
+  {
+    "category_id": "28",
+    "category_name": "JORDAN",
+    "parent_id": 0
+  },
+  {
+    "category_id": "27",
+    "category_name": "IRAQ",
+    "parent_id": 0
+  },
+  {
+    "category_id": "26",
+    "category_name": "BAHRAIN",
+    "parent_id": 0
+  },
+  {
+    "category_id": "25",
+    "category_name": "ALGERIA",
+    "parent_id": 0
+  },
+  {
+    "category_id": "149",
+    "category_name": "تجربة",
+    "parent_id": 0
+  },
+  {
+    "category_id": "156",
+    "category_name": "T-beIN MAX",
+    "parent_id": 0
+  },
+  {
+    "category_id": "157",
+    "category_name": "T-beIN SPORTS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "158",
+    "category_name": "T-OSN",
+    "parent_id": 0
+  }
+]
