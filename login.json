@@ -1,29 +1,7 @@
 {
-"user_info": {
-"username": "ahmad124",
-"password": "112233",
-"message": "",
-"auth": 1,
-"status": "Active",
-"exp_date": "1823122800",
-"is_trial": "0",
-"active_cons": "11",
-"created_at": "1760123387",
-"max_connections": "2",
-"allowed_output_formats": [
-"m3u8",
-"ts",
-"rtmp"
-]
-},
-"server_info": {
-"url": "148.224.24.118",
-"port": "2082",
-"https_port": "25463",
-"server_protocol": "http",
-"rtmp_port": "25462",
-"timezone": "Europe/London",
-"timestamp_now": 1782875870,
-"time_now": "2026-07-01 04:17:50"
-}
+  "users": [
+    { "username": "user01", "password": "pass01" },
+    { "username": "user02", "password": "pass02" },
+    { "username": "ahmed", "password": "123456" }
+  ]
 }
