@@ -1,23 +1,12 @@
 {
-  "info": {
-    "tmdb_id": 0,
-    "episode_run_time": 0,
-    "releasedate": null,
-    "cover_big": null,
-    "movie_image": null,
-    "rating": 0,
-    "subtitles": []
-  },
-  "movie_data": {
-    "stream_id": 1,
-    "name": "bein sport 1 LOW",
-    "title": "bein sport 1 LOW",
-    "year": null,
-    "added": "1781324974",
-    "category_id": "1",
-    "category_ids": [1],
-    "container_extension": null,
-    "custom_sid": "",
-    "direct_source": ""
-  }
+"info": [],
+"movie_data": {
+"stream_id": 1,
+"name": "Bein movies Action",
+"added": "1493143801",
+"category_id": "266",
+"container_extension": null,
+"custom_sid": "",
+"direct_source": ""
+}
 }
