@@ -1,32 +1,29 @@
 {
-  "user_info": {
-    "username": "user01",
-    "password": "user01",
-    "message": "Welcome to STARS",
-    "auth": 1,
-    "status": "Active",
-    "exp_date": null,
-    "is_trial": "0",
-    "active_cons": "0",
-    "created_at": "1781325876",
-    "max_connections": "10",
-    "allowed_output_formats": [
-      "m3u8",
-      "ts",
-      "rtmp"
-    ]
-  },
-  "server_info": {
-    "xui": true,
-    "version": "1.5.13",
-    "revision": null,
-    "url": "str13.xyz",
-    "port": "80",
-    "https_port": "443",
-    "server_protocol": "http",
-    "rtmp_port": "8880",
-    "timestamp_now": 1782871332,
-    "time_now": "2026-07-01 04:02:12",
-    "timezone": "Africa/Cairo"
-  }
+"user_info": {
+"username": "ahmad124",
+"password": "112233",
+"message": "",
+"auth": 1,
+"status": "Active",
+"exp_date": "1823122800",
+"is_trial": "0",
+"active_cons": "11",
+"created_at": "1760123387",
+"max_connections": "2",
+"allowed_output_formats": [
+"m3u8",
+"ts",
+"rtmp"
+]
+},
+"server_info": {
+"url": "148.224.24.118",
+"port": "2082",
+"https_port": "25463",
+"server_protocol": "http",
+"rtmp_port": "25462",
+"timezone": "Europe/London",
+"timestamp_now": 1782875870,
+"time_now": "2026-07-01 04:17:50"
+}
 }
